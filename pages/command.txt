@@ -1,0 +1,14 @@
+Thank you for using me !<br>
+
+This is how i work :<br>
+
+First type !time, then hit space and <br>
+enter the region's code you want the hour from.<br>
+The regions are :<br>
+<br>
+Japan : a-j Asia/Tokyo<br>
+France :e-f Europe/Paris<br>
+United-Kingdom : e-uk Europe/London<br>
+United-States : a-us America/New_York<br>
+Korea : a-k Asia/Seoul<br>
+China : a-c Asia/Shanghai<br>

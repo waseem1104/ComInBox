@@ -1,0 +1,11 @@
+h1{
+	font-size: 60px;
+}
+body{
+	background-image: url("../img/blue.jpg");
+	background-image: cover;
+}
+
+.error{
+	margin: 15%;
+}
